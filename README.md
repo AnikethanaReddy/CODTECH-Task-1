@@ -1,4 +1,5 @@
 Quiz Game in C
+
 This project is a simple text-based Quiz Game implemented in C. The game consists of three levels, with each level containing five multiple-choice questions. To progress through each level, the player must answer at least three questions correctly. The game covers various general knowledge topics such as geography, science, literature, and history.
 
 How the Game Works
